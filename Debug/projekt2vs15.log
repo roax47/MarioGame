@@ -1,0 +1,30 @@
+﻿  mario.cpp
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(356): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(361): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(366): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(376): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(377): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(382): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(386): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(397): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(404): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\roax4\desktop\projekt_pp_2\szablon2\mario.cpp(413): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  projekt2vs15.vcxproj -> C:\Users\Roax4\Desktop\projekt_pp_2\szablon2\Debug\projekt2vs15.exe
+  C:\Users\Roax4\Desktop\projekt_pp_2\szablon2\sdl\winlib15\concrt140.dll
+  C:\Users\Roax4\Desktop\projekt_pp_2\szablon2\sdl\winlib15\SDL2.dll
+  C:\Users\Roax4\Desktop\projekt_pp_2\szablon2\sdl\winlib15\vccorlib140.dll
+  C:\Users\Roax4\Desktop\projekt_pp_2\szablon2\sdl\winlib15\vcruntime140.dll
+          4 file(s) copied.
+  C:\Users\Roax4\Desktop\projekt_pp_2\szablon2\cs8x8.bmp
+  C:\Users\Roax4\Desktop\projekt_pp_2\szablon2\eti.bmp
+          2 file(s) copied.
